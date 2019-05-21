@@ -1,0 +1,45 @@
+---
+title: "NASA BEF Breakout Round 4: Trainings and Tutorials"
+subtitle: "Software Workflows and Tools for Integrating Remote Sensing and Organismal Occurrence Data Streams"
+---
+
+> 22 May 2019
+> 3.50-4.30pm and again 4.45-5.25pm
+
+# Tutorial Overview
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3i8hloIq8FNhafP2qaIXRe22XAgAkA9BQhrsSwB4ui1hEK-s5lwfAZnFnPo17um40XeyliapLxVxp/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+# Explore the prototype
+
+## Data Upload
+
+This section of the tutorial will guide you through uploading your own occurrence data to MOL and annotating it with environmental data.  If you prefer, you can skip this step and work with data already in the database.
+
+1. Create a [free account on the Map Of Life](https://auth.mol.org/register)
+2. Download sample dataset here (LLLLLLLLLLLLLLLLLLLLL).
+2. Go to the [MOL uploader](https://mol.org/upload/landing)
+3. Click "Log In / Register" in the upper right corner
+4. Upload using the [MOL uploader](https://mol.org/upload/landing)
+3. View in geographic space
+
+## Annotation
+
+If you opted to skip uploading the sample dataset, go directly to the [NicheMunk](http://mol.org/nichemunk) 
+
+1. Select a species from uploaded dataset or existing dataset
+2. Select env variables
+3. Annotate with spatial/temporal data from subset of env vars.
+
+
+## Download Annotated Data
+
+1. Click the "Download Data" link.
+2. 
+
+## Have ideas / suggestions?
+
+[Complete a survey about this prototype](https://forms.gle/MBbDE7HLsCLSBi488).
+
+
+# Links
