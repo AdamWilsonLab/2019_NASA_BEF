@@ -16,7 +16,7 @@ subtitle: "NASA BEF Breakout Round 4: Trainings and Tutorials"
 This section of the tutorial will guide you through uploading your own occurrence data to MOL and annotating it with environmental data.  If you prefer, you can skip this step and work with data already in the database.
 
 1. Create a [free account on the Map Of Life](https://auth.mol.org/register)
-2. Download [sample dataset with Amerian Badger Observations here](data/Taxidea_taxus_records.csv).
+2. Download [sample dataset with Amerian Badger Observations here](data/Taxidea_taxus.csv).
 2. Go to the [MOL uploader](https://mol.org/upload/landing)
 3. Click "Log In / Register" in the upper right corner
 4. Upload using the [MOL uploader](https://mol.org/upload/landing)
