@@ -1,6 +1,6 @@
 ---
-title: "NASA BEF Breakout Round 4: Trainings and Tutorials"
-subtitle: "Software Workflows and Tools for Integrating Remote Sensing and Organismal Occurrence Data Streams"
+title: "Software Workflows and Tools for Integrating Remote Sensing and Organismal Occurrence Data Streams"
+subtitle: "NASA BEF Breakout Round 4: Trainings and Tutorials"
 ---
 
 > 22 May 2019
@@ -37,9 +37,14 @@ If you opted to skip uploading the sample dataset, go directly to the [NicheMunk
 1. Click the "Download Data" link.
 2. 
 
-## Have ideas / suggestions?
-
-[Complete a survey about this prototype](https://forms.gle/MBbDE7HLsCLSBi488).
-
 
 # Links
+
+## Have ideas / suggestions?
+
+Complete a survey about this prototype
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflIl3nkvIADjAvfqW8KX-2CmHsa5No2fuvsDjYqwjL9JT-rA/viewform?embedded=true" width="640" height="1962" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+
