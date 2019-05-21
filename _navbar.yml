@@ -8,6 +8,6 @@ type: inverse
 #      - text: "Workshop Content"
 #        href: Workshop.html
 
-#right:
-#  - icon: fa-github fa-lg
-#    href: https://github.com/adammwilson/RDataScience
+right:
+  - text: tiny.cc/2019BEF
+    href: http://tiny.cc/2019BEF
