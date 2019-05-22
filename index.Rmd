@@ -34,14 +34,15 @@ If you opted to skip uploading the sample dataset, go directly to the [NicheMunk
     * MODIS EVI
     * CHELSA Temperature and Precipitation (Min, Mean, Max)
 
-## View the Annotated Data
+## View or Download the Annotated Data
 
 1. Click the table icon near the species name
 2. Explore the annotated records
+3. Download the annotated data if desired.
 
 ## Explore other species
 
-If you have more time, explore some other species (currently only mammals are available):
+If you have more time, explore some other species (currently only mammals are available) at [mol.org/nichemunk](https://mol.org/nichemunk):
 
 * _Ursus americanus_ (American Black Bear)
    * Note the interesting peak in precipitation for intermediate temperature values driven by habitats along the west coast of the U.S.
