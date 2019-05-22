@@ -44,6 +44,13 @@ If you opted to skip uploading the sample dataset, go directly to the [NicheMunk
 
 If you have more time, explore some other species (currently only mammals are available) at [mol.org/nichemunk](https://mol.org/nichemunk):
 
+* Lepus europaeus
+* Canis latrans
+* Lynx rufus
+* Castor fiber
+* Capra ibex
+* Macropus giganteus
+* Isoodon macrourus
 * _Ursus americanus_ (American Black Bear)
    * Note the interesting peak in precipitation for intermediate temperature values driven by habitats along the west coast of the U.S.
 * _Vombatus ursinus_ (Common Wombat)
