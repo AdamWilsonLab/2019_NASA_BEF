@@ -17,27 +17,38 @@ This section of the tutorial will guide you through uploading your own occurrenc
 
 1. Create a [free account on the Map Of Life](https://auth.mol.org/register)
 2. Download [sample dataset with Amerian Badger Observations here](data/Taxidea_taxus.csv).
-2. Go to the [MOL uploader](https://mol.org/upload/landing)
+2. Go to the [MOL uploader](https://mol.org/upload-dev/datasets)
 3. Click "Log In / Register" in the upper right corner
-4. Upload using the [MOL uploader](https://mol.org/upload/landing)
-3. View in geographic space
+4. Upload using the [MOL uploader](https://mol.org/upload-dev/datasets)
+3. Explore the uploader features
+    * Map, Metadata, Permissions, and Published Data
+    * Harmonize species taxonomy (make sure the species name is recognized and correct)
 
 ## Annotation
 
 If you opted to skip uploading the sample dataset, go directly to the [NicheMunk](http://mol.org/nichemunk) 
 
-1. Select a species from uploaded dataset or existing dataset
-2. Select env variables
-3. Annotate with spatial/temporal data from subset of env vars.
+1. Select a species (such as the American Badger, _Taxidea taxus_)
+2. View the 'temporal niche' of EVI for the species
+3. Click 'bivariate' and select your desired variables
+    * MODIS EVI
+    * CHELSA Temperature and Precipitation (Min, Mean, Max)
 
+## View the Annotated Data
 
-## Download Annotated Data
+1. Click the table icon near the species name
+2. Explore the annotated records
 
-1. Click the "Download Data" link.
-2. 
+## Explore other species
 
+If you have more time, explore some other species (currently only mammals are available):
 
-# Links
+* _Ursus americanus_ (American Black Bear)
+   * Note the interesting peak in precipitation for intermediate temperature values driven by habitats along the west coast of the U.S.
+* _Vombatus ursinus_ (Common Wombat)
+   * What would cause the high EVI values experienced by this species in 2016?
+* _Puma concolor_ (Cougar)
+   * Note the wide range of EVI values tolerated by this species.
 
 ## Have ideas / suggestions?
 
